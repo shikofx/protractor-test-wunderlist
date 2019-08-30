@@ -1,0 +1,17 @@
+{
+    "valid": {
+        "topic": "Community Forum",
+        "yourName": "Test Name",
+        "yourEmail": "test@email.test",
+        "subject": "test question",
+        "question": "I ask you about something"
+    },
+
+    "withoutName": {
+        "topic": "Community Forum",
+        "yourName": " ",
+        "yourEmail": "test@email.test",
+        "subject": "test question",
+        "question": "I ask you about something"
+    }
+}

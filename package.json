@@ -1,0 +1,21 @@
+{
+  "name": "wunderkinder",
+  "version": "1.0.0",
+  "description": "Tests for wunderkinder",
+  "main": "./tests/e2e/spec/conf.js",
+  "scripts": {
+    "prestart-webdriver": "webdriver-manager update",
+    "start-webdriver": "webdriver-manager start",
+    "protractor": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikofx/wunderkinder.git"
+  },
+  "author": "Dzmitry Parkheichuk <shikofx@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shikofx/wunderkinder/issues"
+  },
+  "homepage": "https://github.com/shikofx/wunderkinder#readme"
+}

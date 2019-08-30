@@ -1,5 +1,5 @@
-var validData = require('../../../data/dataForTests.json').valid;
-var withoutNameData = require('../../../data/dataForTests.json').withoutName;
+var validData = require('../data/contactPageData.json').valid;
+var withoutNameData = require('../data/contactPageData.json').withoutName;
 const QuestionPage = require('../pages/questionPage');
 
 let mainPage, supportPage, questionPage;

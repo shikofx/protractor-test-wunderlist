@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/shikofx/wunderkinder/issues"
   },
-  "homepage": "https://github.com/shikofx/wunderkinder#readme"
+  "homepage": "https://github.com/shikofx/wunderkinder#readme",
+  "devDependencies": {
+    "chromedriver": "^76.0.1",
+    "jasmine": "^3.4.0",
+    "protractor": "^5.4.2"
+  }
 }

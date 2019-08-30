@@ -1,11 +1,10 @@
-var inputData = require('../../../data/dataForTests.json').valid;
 const MainPage = require('../pages/mainPage');
 const QuestionPage = require('../pages/questionPage');
 const SupportPage = require('../pages/supportPage');
 
 let mainPage, supportPage, questionPage;
 
-xdescribe('Wunderkinder Contact to support page ', function() {
+describe('Wunderkinder Contact to support page ', function() {
     beforeAll(() => {
         mainPage = new MainPage();
         supportPage = new SupportPage();

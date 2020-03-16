@@ -1,4 +1,4 @@
-# wunderlist tests
+# wunderlist tests as example on PROTRACTOR
 ## To run tests:
 ### 1. Execute command 
     npm install
